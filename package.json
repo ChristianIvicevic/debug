@@ -10,7 +10,7 @@
 		"start": "next start"
 	},
 	"dependencies": {
-		"@biomejs/biome": "1.9.4",
+		"@biomejs/biome": "2.2.4",
 		"@tailwindcss/postcss": "4.1.8",
 		"@types/node": "22.15.29",
 		"@types/react": "19.1.6",

@@ -1,7 +1,7 @@
 import './globals.css'
-import { cn } from '@/utils'
 import { Inter } from 'next/font/google'
 import type { ReactNode } from 'react'
+import { cn } from '@/utils'
 
 const fontSans = Inter({ display: 'swap', subsets: ['latin'], variable: '--font-sans' })
 

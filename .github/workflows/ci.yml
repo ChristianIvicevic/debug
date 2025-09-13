@@ -34,7 +34,7 @@ jobs:
             ${{ runner.os }}-pnpm-store-
       - uses: biomejs/setup-biome@f382a98e582959e6aaac8e5f8b17b31749018780 # v2
         with:
-          version: 1.9.4
+          version: latest
       - run: pnpm install
       - run: biome ci .
       - run: pnpm build

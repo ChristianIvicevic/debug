@@ -10,9 +10,9 @@
 		"start": "next start"
 	},
 	"dependencies": {
-		"@biomejs/biome": "2.4.3",
-		"@tailwindcss/postcss": "4.2.0",
-		"@types/node": "24.10.13",
+		"@biomejs/biome": "2.4.4",
+		"@tailwindcss/postcss": "4.2.1",
+		"@types/node": "24.10.15",
 		"@types/react": "19.2.14",
 		"@types/react-dom": "19.2.3",
 		"clsx": "2.1.1",
@@ -20,10 +20,10 @@
 		"react": "19.2.4",
 		"react-dom": "19.2.4",
 		"tailwind-merge": "3.5.0",
-		"tailwindcss": "4.2.0",
+		"tailwindcss": "4.2.1",
 		"typescript": "5.9.3"
 	},
-	"packageManager": "pnpm@10.30.1",
+	"packageManager": "pnpm@10.30.3",
 	"pnpm": {
 		"onlyBuiltDependencies": [
 			"@biomejs/biome",
